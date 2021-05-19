@@ -40,12 +40,10 @@ public class ExecutarTeste {
 		// total: " + venda.totalVenda());
 		System.out.println("Valor da variável total venda: " + venda.getValorTotal());
 
-		/*
-		 * for (Produto produto : venda.getListaProdutos()) {
-		 * System.out.println("Produtos: " + produto);
-		 * 
-		 * }
-		 */
+		/*for (Produto produto : venda.getListaProdutos()) {
+			System.out.println("Produtos: " + produto);
+
+		}*/
 
 	}
 
